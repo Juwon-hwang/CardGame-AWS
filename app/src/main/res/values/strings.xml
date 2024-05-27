@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">MoblieGame</string>
+    <string name="action_view_scores">기록 보기</string>
+</resources>
